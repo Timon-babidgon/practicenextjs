@@ -9,11 +9,11 @@ export default function PlansPage() {
         </li>
         <li>
             <strong className="text-lg">Разобраться с API.</strong>
-            <p className="text-gray-600">Напишу страницу погоды с fetch (это задание 4).</p>
+            <p className="text-gray-600">Напишу страницу погоды с fetch.</p>
         </li>
         <li>
             <strong className="text-lg">Сделать свой проект.</strong>
-            <p className="text-gray-600">Начну с лендинга для портфолио.</p>
+            <p className="text-gray-600">Начну с создания для портфолио.</p>
         </li>
             </ol>
     </main>

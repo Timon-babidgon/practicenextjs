@@ -16,7 +16,7 @@ export default async function FactDetailPage({
         <main className="mx-auto max-w-3xl px-6 py-12">
         <h1 className="text-2xl font-bold mb-4 text-red-500">Факт не найден</h1>
         <Link href="/facts" className="text-blue-600 hover:underline">
-            ← Назад к фактам
+            Назад к фактам
         </Link>
         </main>
     )
